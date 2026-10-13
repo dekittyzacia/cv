@@ -10,6 +10,7 @@ const App = () => {
           name="viewport"
           content="width=device-width, initial-scale=1"
         ></meta>
+        <meta name="description" content="Polina Yakunina CV"></meta>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"

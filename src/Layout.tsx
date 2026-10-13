@@ -13,7 +13,7 @@ const Layout: React.FC = () => {
 
       <main>
         <Section>
-          <div className={'flex gap-20'}>
+          <div className={'flex flex-col sm:flex-row gap-5 sm:gap-10'}>
             <div className={'basis-2/3'}>
               <h2 className={'text-xl font-semibold uppercase pb-[10]'}>
                 {ruTitles.about}
