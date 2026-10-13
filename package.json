@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "http://dekittyzacia.github.io/cv",
   "scripts": {
     "build": "rsbuild build",
     "check": "biome check --write",
@@ -16,6 +15,7 @@
     "@types/node": "^26.6.5",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
+    "@vercel/analytics": "^2.0.1",
     "classnames": "^2.5.1",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
