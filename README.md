@@ -5,7 +5,7 @@
 - (WIP) English
 
 ## Link
-cv-zeta-fawn.vercel.app/
+https://cv-zeta-fawn.vercel.app/
 
 ## Contacts
 - TG: @p67sultan
