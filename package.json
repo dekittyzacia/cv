@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "homepage": "http://dekittyzacia.github.io/cv",
   "scripts": {
     "build": "rsbuild build",
     "check": "biome check --write",
